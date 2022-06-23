@@ -15,7 +15,7 @@ update @ 2022/06/23
 
 6. below is log capture , 
 
-![image](https://github.com/released/NUC1262BSP_BPWM_capture_IRQ/blob/main/LA.jpg)
+![image](https://github.com/released/NUC1262BSP_BPWM_capture_IRQ/blob/main/log.jpg)
 
 below is scope capture , 
 
